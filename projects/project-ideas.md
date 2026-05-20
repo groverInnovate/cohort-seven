@@ -252,7 +252,7 @@ Relevant references:
 * [SSZ Query Language with Merkle Proofs](https://github.com/eth-protocol-fellows/cohort-six/blob/master/projects/ssz-ql-with-merkle-proofs.md.com)
 * [Electra Light Client Notes – SSZ Query Language](https://hackmd.io/@etan-status/electra-lc#SSZ-query-language)
 
-### EIP-8142:Block-in-Blobs (BiB) Proof of Concept
+### EIP-8142: Block-in-Blobs (BiB) Proof of Concept
 
 By Francesco Risitano (EF zkEVM team)
 
