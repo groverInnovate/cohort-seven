@@ -13,7 +13,7 @@ Phase one is the very beginning of the cohort. The first few weeks are dedicated
 | [Abhivansh](https://github.com/akronim26)       | [Update 0](https://hackmd.io/@astaxxoo/ByJ3Fhtbzg)                                                  |        |        |
 | [Arsh](https://github.com/ArshLabs)             | [Update 0](https://hackmd.io/@arshlabs/HJtE30wWGg)                                                  | [Update 1](https://hackmd.io/@arshlabs/S1v7ShSzfx) |        |
 | [Astrion](https://github.com/astrion-coder)     | [Update 0](https://hackmd.io/@Astrion/rJsS2ma-Gl)                                                   |        |        |
-| [Ayush](https://github.com/0xAysh/)             | [ Update 0](https://hackmd.io/@0xAysh/EPF7-week-0-update)                                           |        |        |
+| [Ayush](https://github.com/0xAysh/)             | [Update 0](https://hackmd.io/@0xAysh/EPF7-week-0-update)                                           | [Update 1](https://hackmd.io/@0xAysh/EPF7-week-1-update)        |        |
 | [Bankat](https://github.com/mananuf/)           | [Update 0](https://hackmd.io/@manbankat/ryn-CDrbfx)                                                 | [Update 1](https://hackmd.io/@manbankat/Bytif1yfMg) |        |
 | [Blessing](https://github.com/dicethedev/)      | [Update 0](https://hackmd.io/@dicethedev/HkHB60wZfl)                                                |        |        |
 | [Conall](https://github.com/XRS-001/)           | [ Update 0](https://docs.fileverse.io/d/02001110001b#k=0YDBXHva0sJIlCC108YBhFhNP_4PFWtxqoGaQOqcFhM) |        |        |
